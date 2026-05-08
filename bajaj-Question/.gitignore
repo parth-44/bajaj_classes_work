@@ -1,0 +1,5 @@
+# Default ignored files by JetBrains IDEs
+.idea/
+*.iml
+out/
+*.class
